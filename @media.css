@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+    .container {
+        padding: 15px;
+    }
+
+    .todo-input input {
+        width: 70%;
+    }
+}
